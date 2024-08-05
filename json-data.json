@@ -20,25 +20,8 @@
           "title1": "Baked Shoes Gaming",
           "text1": "\r How To Obtain Your Starters\n\r Join Discord with the link on the bottom left of the screen or with this invite - Discord.com/invite/HUYKXZQXx9\n\r First you need to go into your inventory and craft the ASA-Bot Player Registration Ticket, and consume it\n\r Then you will need to go into discord and go into the starter request channel and click claim on your starter."
           "imageurl": "https://i.imgur.com/SmhSgiD.png"
-          "title2": Server Settings" 
-          "text2": "                                                    XP  X 3                          
-                                         Max Wild LVL 600                 
-                                        Mature Speed  X  10              
-                                        Mating Interval  X  .25            
-                                        Mating Speed  X  50              
-                                        Taming Speed  X 10               
-                                                Harvest  X  5                    
-                                            Fishing Loot  X  5
-                                       Supply Crate Loot  X  5
-                                       Structure Decay  X  2.5
-                                        Creature Decay  X  2.5
-                                            Corps Decay  X  5
-                                      Auto Destroy Structures
-                                    Low Food and Water Drain
-                                 Always Allow Structure Pickup
-                                    Force All Structures Locking
-                                   Flyer Speed Leveling Enabled
-                                  Player Speed Leveling Enabled" 
+          "title2": "Server Settings" 
+          "text2": "\rXP  X 3\n\rMax Wild LVL 600\n\rMature Speed  X  10\n\rMating Interval  X  .25\n\rMating Speed  X  50\n\rTaming Speed  X 10\n\rHarvest  X  5\n\rFishing Loot  X  5\n\r Supply Crate Loot  X  5\n\r Structure Decay  X  2.5\n\rCreature Decay  X  2.5\n\rCorps Decay  X  5\n\rAuto Destroy Structures\n\r Low Food and Water Drain\n\rAlways Allow Structure Pickup\n\rForce All Structures Locking\n\rFlyer Speed Leveling Enabled\n\rPlayer Speed Leveling Enabled" 
           "imageurl": "https://i.imgur.com/SmhSgiD.png"
         }
       },
@@ -47,26 +30,7 @@
           "layout": 1,
           "buttontext": "Rules",
           "title1": "Server Rules",
-          "text1":  "• All Players must make a tribe, Even solo players need to be in a tribe
-• All tribes must be registered. 
-• Only one base per tribe.
-• You can have a main base and then outposts on the other maps (No bigger than 10x10 foundations), put what map is your main map in your registry.
-• You can have a main base and then out posts on the other maps, put what map is your main map in your registry.
-• No using human as a name. No using any variation of human in any language either, if found using you will be wiped or forced into a name change.
-• All oil, water, gas pumps must be unlocked unless they are the ones spawned in for VIP
-• No kiting or griefing of any kind.
-• Be respectful of each other. This means no name calling, no talking about religion or politics and no racism allowed. 
-• Your entire base must fully render from the center.
-• You may use dino gates as walls (max 25). Only 3 behemoth gates allowed per base.
-• No building around egg spawn locations. Any builds thought to disrupt egg spawns will result in a wipe.
-• You ARE NOT allowed to build in resource heavy areas.
-• No building within render of other bases unless given permission by tribe owner of the base you want to build near 
-• No offline breeding allowed. Any dinos found offline breeding will result in a complete dino wipe.
-• Any tames on wander must be spayed/neutered and must be within the confines of your base. If found outside your base it will result in a dino wipe
-• Take down any traps you put up unless a dino is in them. Any traps found will be destroyed unless being used currently. 
-• If you come across any admin owned structures that are demo allowed you are not to demolish it, please get in touch with an admin to let us know
-• No foundation spam allowed, could result in wipe
-•No Skipping Teirs. If you cant Tame it you cant have it. If cought giving or trading dinos with a person who cannot tame them, it could possibily result it a wipe/ban. you will get 1 warning, then a wipe, then a ban.",
+          "text1":  "\r All Players must make a tribe, Even solo players need to be in a tribe\n\r All tribes must be registered. \n\r Only one base per tribe.\n\r You can have 3 Bases per Cluster.\n\r You can have a main base and then out posts on the other maps, put what map is your main map in your registry.\n\r No using human as a name. No using any variation of human in any language either, if found using you will be wiped or forced into a name change.\n\r All oil, water, gas pumps must be unlocked unless they are the ones spawned in for VIP\n\r No kiting or griefing of any kind.\n\r Be respectful of each other. This means no name calling, no talking about religion or politics and no racism allowed. \n\r Your entire base must fully render from the center.\n\r You may use dino gates as walls (max 25). Only 3 behemoth gates allowed per base.\n\r No building around egg spawn locations. Any builds thought to disrupt egg spawns will result in a wipe.\n\r You ARE NOT allowed to build in resource heavy areas.\n\r No building within render of other bases unless given permission by tribe owner of the base you want to build near\n\r No offline breeding allowed. Any dinos found offline breeding will result in a complete dino wipe.\n\r Any tames on wander must be spayed/neutered and must be within the confines of your base. If found outside your base it will result in a dino wipe\n\r Take down any traps you put up unless a dino is in them. Any traps found will be destroyed unless being used currently.\n\r If you come across any admin owned structures that are demo allowed you are not to demolish it, please get in touch with an admin to let us know\n\r No foundation spam allowed, could result in wipe\n\r No Skipping Teirs. If you cant Tame it you cant have it. If cought giving or trading dinos with a person who cannot tame them, it could possibily result it a wipe/ban. you will get 1 warning, then a wipe, then a ban.",
           "imageurl": "https://i.imgur.com/SmhSgiD.png"
         }
       },
@@ -84,10 +48,7 @@
           "layout": 1,
           "buttontext": "Mod Tips",
           "title1": "Information on Mods",
-          "text1": "•F5 Opens the Lily's Tweakers Mod. This allows you to enter your console comands like r.volmetricfog 0. you can place multiple commands in it seperated by a comma, and the mod will auto run the commands every time you join a server with the mod. i recomend checking the option to use the radial wheel also as double tapping y or triangle will open the menu if not
-•When you die you can use the teleport pad to recover your inventory
-•If you feed your dinos a Dino Tracker you can teleprt them to you from the Teleport pad or with the Teleport Remote.
-•The Der Dino Finder mod is useable from your Inventory Map, its on the bottom right on the map. you can use it to search any and all dinos on the map", 
+          "text1": "\rF5 Opens the Lily's Tweakers Mod. This allows you to enter your console comands like r.volmetricfog 0. you can place multiple commands in it seperated by a comma, and the mod will auto run the commands every time you join a server with the mod. i recomend checking the option to use the radial wheel also as double tapping y or triangle will open the menu if not\n\rWhen you die you can use the teleport pad to recover your inventory\n\rIf you feed your dinos a Dino Tracker you can teleprt them to you from the Teleport pad or with the Teleport Remote.\n\rThe Der Dino Finder mod is useable from your Inventory Map, its on the bottom right on the map. you can use it to search any and all dinos on the map", 
           "imageurl": "https://i.imgur.com/SmhSgiD.png"
         }
       }
