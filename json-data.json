@@ -8,21 +8,21 @@
  
  	 	 " O p e n B u t t o n " :   0 , 
  
- 	 	 " H i d e I c o n " : t r u e , 
+ 	 	 " H i d e I c o n " :t r u e , 
  
  	 	 " H i d e I c o n A f t e r " :   3 0 , 
  
  	 	 " I c o n U R L " :   " h t t p s : / / i . i m g u r . c o m / M 9 0 3 0 l Q _ d . j p g ? m a x w i d t h = 5 2 0 & s h a p e = t h u m b & f i d e l i t y = h i g h " , 
  
- 	 	 " D i s a b l e I c o n T e x t " : f a l s e , 
+ 	 	 " D i s a b l e I c o n T e x t " :f a l s e , 
  
  	 	 " I c o n P o s i t i o n " :   0 , 
  
  	 	 " I c o n T e x t C o l o r " :   4 , 
  
- 	 	 " O p e n O n S t a r t " : t r u e , 
+ 	 	 " O p e n O n S t a r t " :t r u e , 
  
- 	 	 " O p e n O n S t a r t O n l y N e w P l a y e r s " : t r u e , 
+ 	 	 " O p e n O n S t a r t O n l y N e w P l a y e r s " : t r u e  
  
  	 	 " U p d a t e I n t e r v a l " :   1 2 
  
