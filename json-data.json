@@ -1,139 +1,107 @@
-{ 
- 
-     " W B U I 2 " :   { 
- 
- 	 " s e t t i n g s " : 
- 
- 	 { 
- 
- 	 	 " O p e n B u t t o n " :   0 , 
- 
- 	 	 " H i d e I c o n " : t r u e, 
- 
- 	 	 " H i d e I c o n A f t e r " :   3 0 , 
- 
- 	 	 " I c o n U R L " :   " h t t p s : / / i . i m g u r . c o m / M 9 0 3 0 l Q _ d . j p g ? m a x w i d t h = 5 2 0 & s h a p e = t h u m b & f i d e l i t y = h i g h " , 
- 
- 	 	 " D i s a b l e I c o n T e x t " : f a l s e, 
- 
- 	 	 " I c o n P o s i t i o n " :   0 , 
- 
- 	 	 " I c o n T e x t C o l o r " :   4 , 
- 
- 	 	 " O p e n O n S t a r t " : t r u e, 
- 
- 	 	 " O p e n O n S t a r t O n l y N e w P l a y e r s " : t r u e,  
- 
- 	 	 " U p d a t e I n t e r v a l " :   1 2 
- 
- 	 } , 
- 
- 	 " t a b s " :   [ 
- 
- 	 	 { 
- 
- 	 	 	 " t a b 1 " : 
- 
- 	 	 	 { 
- 
- 	 	 	 	 " l a y o u t " :   2 , 
- 
- 	 	 	 	 " b u t t o n t e x t " :   " W e l c o m e " , 
- 
- 	 	 	 	 " t i t l e 1 " :   " B a k e d   S h o e s   G a m i n g " , 
- 
- 	 	 	 	 " t e x t 1 " :   "                                                             H o w   T o   O b t a i n   Y o u r   S t a r t e r s \ r \ n "   J o i n   D i s c o r d   w i t h   t h e   l i n k   o n   t h e   b o t t o m   l e f t   o f   t h e   s c r e e n   o r   w i t h   t h i s   i n v i t e   -   D i s c o r d . c o m / i n v i t e / H U Y K X Z Q X x 9 " , 
- 
- 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / S m h S g i D . p n g " , 
- 
- 	 	 	 	 " t i t l e 2 " :   " S e r v e r   S e t t i n g s " , 
- 
- 	 	 	 	 " t e x t 2 " :   "                                                                                                         X P     X   3                                                     \ r \ n                                                                                   M a x   W i l d   L V L   6 0 0                                   \ r \ n                                                                                 M a t u r e   S p e e d     X     1 0                             \ r \ n                                                                                 M a t i n g   I n t e r v a l     X     . 2 5                         \ r \ n                                                                                 M a t i n g   S p e e d     X     5 0                             \ r \ n                                                                                 T a m i n g   S p e e d     X   1 0                               \ r \ n                                                                                                 H a r v e s t     X     5                                         \ r \ n                                                                                         F i s h i n g   L o o t     X     5 \ r \ n                                                                               S u p p l y   C r a t e   L o o t     X     5 \ r \ n                                                                               S t r u c t u r e   D e c a y     X     2 . 5 \ r \ n                                                                                 C r e a t u r e   D e c a y     X     2 . 5 \ r \ n                                                                                         C o r p s   D e c a y     X     5 \ r \ n                                                                             A u t o   D e s t r o y   S t r u c t u r e s \ r \ n                                                                         L o w   F o o d   a n d   W a t e r   D r a i n \ r \ n                                                                   A l w a y s   A l l o w   S t r u c t u r e   P i c k u p \ r \ n                                                                         F o r c e   A l l   S t r u c t u r e s   L o c k i n g \ r \ n                                                                       F l y e r   S p e e d   L e v e l i n g   E n a b l e d \ r \ n                                                                     P l a y e r   S p e e d   L e v e l i n g   E n a b l e d   " 
- 
- 	 	 	 } 
- 
- 	 	 } , 
- 
- 	 	 { 
- 
- 	 	 	 " t a b 2 " : 
- 
- 	 	 	 { 
- 
- 	 	 	 	 " l a y o u t " :   1 , 
- 
- 	 	 	 	 " b u t t o n t e x t " :   " R u l e s " , 
- 
- 	 	 	 	 " t i t l e 1 " :   " S e r v e r   R u l e s " , 
- 
- 	 	 	 	 " t e x t 1 " :   " "   A l l   P l a y e r s   m u s t   m a k e   a   t r i b e ,   E v e n   s o l o   p l a y e r s   n e e d   t o   b e   i n   a   t r i b e \ r \ n "   A l l   t r i b e s   m u s t   b e   r e g i s t e r e d .   \ r \ n "   O n l y   o n e   b a s e   p e r   t r i b e . \ r \ n "   Y o u   c a n   h a v e   a   m a i n   b a s e   a n d   t h e n   o u t   p o s t s   o n   t h e   o t h e r   m a p s ,   p u t   w h a t   m a p   i s   y o u r   m a i n   m a p   i n   y o u r   r e g i s t r y . \ r \ n "   N o   u s i n g   h u m a n   a s   a   n a m e .   N o   u s i n g   a n y   v a r i a t i o n   o f   h u m a n   i n   a n y   l a n g u a g e   e i t h e r ,   i f   f o u n d   u s i n g   y o u   w i l l   b e   w i p e d   o r   f o r c e d   i n t o   a   n a m e   c h a n g e . \ r \ n "   A l l   o i l ,   w a t e r ,   g a s   p u m p s   m u s t   b e   u n l o c k e d   u n l e s s   t h e y   a r e   t h e   o n e s   s p a w n e d   i n   f o r   V I P \ r \ n "   N o   k i t i n g   o r   g r i e f i n g   o f   a n y   k i n d . \ r \ n "   B e   r e s p e c t f u l   o f   e a c h   o t h e r .   T h i s   m e a n s   n o   n a m e   c a l l i n g ,   n o   t a l k i n g   a b o u t   r e l i g i o n   o r   p o l i t i c s   a n d   n o   r a c i s m   a l l o w e d .   \ r \ n "   Y o u r   e n t i r e   b a s e   m u s t   f u l l y   r e n d e r   f r o m   t h e   c e n t e r . \ r \ n "   Y o u   m a y   u s e   d i n o   g a t e s   a s   w a l l s   ( m a x   2 5 ) .   O n l y   3   b e h e m o t h   g a t e s   a l l o w e d   p e r   b a s e . \ r \ n "   N o   b u i l d i n g   a r o u n d   e g g   s p a w n   l o c a t i o n s .   A n y   b u i l d s   t h o u g h t   t o   d i s r u p t   e g g   s p a w n s   w i l l   r e s u l t   i n   a   w i p e . \ r \ n "   Y o u   A R E   N O T   a l l o w e d   t o   b u i l d   i n   r e s o u r c e   h e a v y   a r e a s . \ r \ n "   N o   b u i l d i n g   w i t h i n   r e n d e r   o f   o t h e r   b a s e s   u n l e s s   g i v e n   p e r m i s s i o n   b y   t r i b e   o w n e r   o f   t h e   b a s e   y o u   w a n t   t o   b u i l d   n e a r   \ r \ n "   N o   o f f l i n e   b r e e d i n g   a l l o w e d .   A n y   d i n o s   f o u n d   o f f l i n e   b r e e d i n g   w i l l   r e s u l t   i n   a   c o m p l e t e   d i n o   w i p e . \ r \ n "   A n y   t a m e s   o n   w a n d e r   m u s t   b e   s p a y e d / n e u t e r e d   a n d   m u s t   b e   w i t h i n   t h e   c o n f i n e s   o f   y o u r   b a s e .   I f   f o u n d   o u t s i d e   y o u r   b a s e   i t   w i l l   r e s u l t   i n   a   d i n o   w i p e \ r \ n "   T a k e   d o w n   a n y   t r a p s   y o u   p u t   u p   u n l e s s   a   d i n o   i s   i n   t h e m .   A n y   t r a p s   f o u n d   w i l l   b e   d e s t r o y e d   u n l e s s   b e i n g   u s e d   c u r r e n t l y .   \ r \ n "   I f   y o u   c o m e   a c r o s s   a n y   a d m i n   o w n e d   s t r u c t u r e s   t h a t   a r e   d e m o   a l l o w e d   y o u   a r e   n o t   t o   d e m o l i s h   i t ,   p l e a s e   g e t   i n   t o u c h   w i t h   a n   a d m i n   t o   l e t   u s   k n o w \ r \ n "   N o   f o u n d a t i o n   s p a m   a l l o w e d ,   c o u l d   r e s u l t   i n   w i p e \ r \ n " N o   S k i p p i n g   T e i r s .   I f   y o u   c a n t   T a m e   i t   y o u   c a n t   h a v e   i t .   I f   c o u g h t   g i v i n g   o r   t r a d i n g   d i n o s   w i t h   a   p e r s o n   w h o   c a n n o t   t a m e   t h e m ,   i t   c o u l d   p o s s i b i l y   r e s u l t   i t   a   w i p e / b a n .   y o u   w i l l   g e t   1   w a r n i n g ,   t h e n   a   w i p e ,   t h e n   a   b a n . " , 
- 
- 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / S m h S g i D . p n g " 
- 
- 	 	 	 } 
- 
- 	 	 } , 
- 
- 	 	 { 
- 
- 	 	 	 " t a b 3 " : 
- 
- 	 	 	 { 
- 
- 	 	 	 	 " l a y o u t " :   1 , 
- 
- 	 	 	 	 " b u t t o n t e x t " :   " I m p o r t a n t   I n f o r m a t i o n " , 
- 
- 	 	 	 	 " t i t l e 1 " :   " I m p o r t a n t   S e r v e r   I n f o " , 
- 
- 	 	 	 	 " t e x t 1 " :   " w e   w i l l   t r y   t o   k e e p   t h i s   u p d a t e d   w i t h   a n y   c h a n g e s   t h a t   w i l l   b e   c o m i n g   u p   w i t h   t h e   s e r v e r " , 
- 
- 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / S m h S g i D . p n g " 
- 
- 	 	 	 } 
- 
- 	 	 } , 
- 
- 	 	 { 
- 
- 	 	 	 " t a b 4 " : 
- 
- 	 	 	 { 
- 
- 	 	 	 	 " l a y o u t " :   1 , 
- 
- 	 	 	 	 " b u t t o n t e x t " :   " M o d   T i p s " , 
- 
- 	 	 	 	 " t i t l e 1 " :   " I n f o r m a t i o n   o n   M o d s " , 
- 
- 	 	 	 	 " t e x t 1 " :   " " F 5   O p e n s   t h e   L i l y ' s   T w e a k e r s   M o d .   T h i s   a l l o w s   y o u   t o   e n t e r   y o u r   c o n s o l e   c o m a n d s   l i k e   r . v o l m e t r i c f o g   0 .   y o u   c a n   p l a c e   m u l t i p l e   c o m m a n d s   i n   i t   s e p e r a t e d   b y   a   c o m m a ,   a n d   t h e   m o d   w i l l   a u t o   r u n   t h e   c o m m a n d s   e v e r y   t i m e   y o u   j o i n   a   s e r v e r   w i t h   t h e   m o d . \ r \ n " W h e n   y o u   d i e   y o u   c a n   u s e   t h e   t e l e p o r t   p a d   t o   r e c o v e r   y o u r   i n v e n t o r y \ r \ n " I f   y o u   f e e d   y o u r   d i n o s   a   D i n o   T r a c k e r   y o u   c a n   t e l e p r t   t h e m   t o   y o u   f r o m   t h e   T e l e p o r t   p a d   o r   w i t h   t h e   T e l e p o r t   R e m o t e . \ r \ n " T h e   D e r   D i n o   F i n d e r   m o d   i s   u s e a b l e   f r o m   y o u r   I n v e n t o r y   M a p ,   i t s   o n   t h e   b o t t o m   r i g h t   o n   t h e   m a p .   y o u   c a n   u s e   i t   t o   s e a r c h   a n y   a n d   a l l   d i n o s   o n   t h e   m a p " , 
- 
- 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / S m h S g i D . p n g " 
- 
- 	 	 	 } 
- 
- 	 	 } 
- 
- 	 ] , 
- 
- 	 " l i n k s " :   [ 
- 
- 	 	 { 
- 
- 	 	 	 " l i n k 1 " : 
- 
- 	 	 	 { 
- 
- 	 	 	 	 " t e x t " :   " D i s c o r d " , 
- 
- 	 	 	 	 " u r l " :   " h t t p s : / / d i s c o r d . g g / b p p n J u v e 6 H " 
- 
- 	 	 	 } 
- 
- 	 	 } 
- 
- 	 ] 
- 
- } 
- 
- } 
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 30,
+        "IconURL": "https://i.imgur.com/M9030lQ_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 4,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 2,
+          "buttontext": "Welcome",
+          "title1": "Baked Shoes Gaming",
+          "text1": "                              How To Obtain Your Starters
+• Join Discord with the link on the bottom left of the screen or with this invite - Discord.com/invite/HUYKXZQXx9
+• First you need to go into your inventory and craft the ASA-Bot Player Registration Ticket, and consume it
+•Then you will need to go into discord and go into the starter request channel and click claim on your starter."
+          "imageurl": "https://i.imgur.com/SmhSgiD.png"
+          "title2": Server Settings" 
+          "text2": "                                                    XP  X 3                          
+                                         Max Wild LVL 600                 
+                                        Mature Speed  X  10              
+                                        Mating Interval  X  .25            
+                                        Mating Speed  X  50              
+                                        Taming Speed  X 10               
+                                                Harvest  X  5                    
+                                            Fishing Loot  X  5
+                                       Supply Crate Loot  X  5
+                                       Structure Decay  X  2.5
+                                        Creature Decay  X  2.5
+                                            Corps Decay  X  5
+                                      Auto Destroy Structures
+                                    Low Food and Water Drain
+                                 Always Allow Structure Pickup
+                                    Force All Structures Locking
+                                   Flyer Speed Leveling Enabled
+                                  Player Speed Leveling Enabled" 
+          "imageurl": "https://i.imgur.com/SmhSgiD.png"
+        }
+      },
+      { 
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Rules",
+          "title1": "Server Rules",
+          "text1":  "• All Players must make a tribe, Even solo players need to be in a tribe
+• All tribes must be registered. 
+• Only one base per tribe.
+• You can have a main base and then outposts on the other maps (No bigger than 10x10 foundations), put what map is your main map in your registry.
+• You can have a main base and then out posts on the other maps, put what map is your main map in your registry.
+• No using human as a name. No using any variation of human in any language either, if found using you will be wiped or forced into a name change.
+• All oil, water, gas pumps must be unlocked unless they are the ones spawned in for VIP
+• No kiting or griefing of any kind.
+• Be respectful of each other. This means no name calling, no talking about religion or politics and no racism allowed. 
+• Your entire base must fully render from the center.
+• You may use dino gates as walls (max 25). Only 3 behemoth gates allowed per base.
+• No building around egg spawn locations. Any builds thought to disrupt egg spawns will result in a wipe.
+• You ARE NOT allowed to build in resource heavy areas.
+• No building within render of other bases unless given permission by tribe owner of the base you want to build near 
+• No offline breeding allowed. Any dinos found offline breeding will result in a complete dino wipe.
+• Any tames on wander must be spayed/neutered and must be within the confines of your base. If found outside your base it will result in a dino wipe
+• Take down any traps you put up unless a dino is in them. Any traps found will be destroyed unless being used currently. 
+• If you come across any admin owned structures that are demo allowed you are not to demolish it, please get in touch with an admin to let us know
+• No foundation spam allowed, could result in wipe
+•No Skipping Teirs. If you cant Tame it you cant have it. If cought giving or trading dinos with a person who cannot tame them, it could possibily result it a wipe/ban. you will get 1 warning, then a wipe, then a ban.",
+          "imageurl": "https://i.imgur.com/SmhSgiD.png"
+        }
+      },
+      { 
+        "tab3": {
+          "layout": 1,
+          "buttontext": "Important Information",
+          "title1": "Important Server Info",
+          "text1": "we will try to keep this updated with any changes that will be coming up with the server",
+          "imageurl": "https://i.imgur.com/SmhSgiD.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Mod Tips",
+          "title1": "Information on Mods",
+          "text1": ""•F5 Opens the Lily's Tweakers Mod. This allows you to enter your console comands like r.volmetricfog 0. you can place multiple commands in it seperated by a comma, and the mod will auto run the commands every time you join a server with the mod. i recomend checking the option to use the radial wheel also as double tapping y or triangle will open the menu if not
+•When you die you can use the teleport pad to recover your inventory
+•If you feed your dinos a Dino Tracker you can teleprt them to you from the Teleport pad or with the Teleport Remote.
+•The Der Dino Finder mod is useable from your Inventory Map, its on the bottom right on the map. you can use it to search any and all dinos on the map", 
+          "imageurl": "https://i.imgur.com/SmhSgiD.png"
+        }
+      }
+    ]
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/bppnJuve6H" 
+        }
+      }
+    ]
+  }
+}
