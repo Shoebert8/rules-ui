@@ -42,7 +42,7 @@
 				"layout": 1,
 				"buttontext": "Important Information",
 				"title1": "Important Server Info",
-				"text1": "we will try to keep this updated with any changes that will be coming up with the server",
+				"text1": "we will try to keep this updated with any changes that will be coming up with the server. {playerlist}",
 				"imageurl": "https://i.imgur.com/SmhSgiD.png"
 			}
 		},
@@ -55,18 +55,8 @@
 				"text1": "•F5 Opens the Lily's Tweakers Mod. This allows you to enter your console comands like r.volmetricfog 0. you can place multiple commands in it seperated by a comma, and the mod will auto run the commands every time you join a server with the mod. i recomend checking the option to use the radial wheel also as double tapping y or triangle will open the menu if not\r\n•When you die you can use the teleport pad to recover your inventory\r\n•If you feed your dinos a Dino Tracker you can teleprt them to you from the Teleport pad or with the Teleport Remote.\r\n•The Der Dino Finder mod is useable from your Inventory Map, its on the bottom right on the map. you can use it to search any and all dinos on the map",
 				"imageurl": "https://i.imgur.com/SmhSgiD.png"
 			}
-		},
-		{
-			"tab5":
-			{
-				"layout": 1,
-				"buttontext": "Connected Players",
-				"title1": "Players",
-				"text1": "{playerlist}",
-				"imageurl": "https://i.imgur.com/SmhSgiD.png"
-			}
 		}
-	  ],
+	],
 	"links": [
 		{
 			"link1":
