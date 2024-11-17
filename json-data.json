@@ -57,6 +57,16 @@
 			}
 		}
 	],
+		{
+			"tab5":
+			{
+				"layout": 1,
+				"buttontext": "Connected Players",
+				"title1": "Players",
+				"text1": "{playerlist}",
+				"imageurl": "https://i.imgur.com/SmhSgiD.png"
+			}
+		},
 	"links": [
 		{
 			"link1":
